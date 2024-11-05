@@ -3,6 +3,6 @@
 
 // TODO: change this
 #define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.sega.pjsekai"
+#define GamePackageName "com.FosFenes.Sonolus"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
